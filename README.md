@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinodkvrm
+- 👋 Hi, I’m @vinod
 - 👀 I’m interested in Java, spring, Hibernate, Angular .net core
 - 🌱 I’m currently learning market trending skills
 - 💞️ I’m looking to collaborate on ...
