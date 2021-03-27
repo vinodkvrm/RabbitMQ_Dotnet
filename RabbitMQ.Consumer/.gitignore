@@ -1,0 +1,9 @@
+**/bin/ 
+**/obj/ 
+**/.vs/
+packages/ 
+source/CSWF_DLLs/
+**/FakesAssemblies
+*.csproj.*
+**/TestResults
+$tf/
